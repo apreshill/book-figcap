@@ -1,0 +1,10 @@
+fig:unnamed-chunk-4
+tab:nice-tab
+prerequisites
+intro
+literature
+methods
+applications
+example-one
+example-two
+final-words
